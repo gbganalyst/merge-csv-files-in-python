@@ -1,6 +1,6 @@
-# Combining data from multiple csv files into a single dataframe
+# Merge csv files into a dataframe in Python
 
-Are your dataset rows spread across multiple files and you need a single dataframe?
+Are your dataset rows spread across multiple csv files and you want to consolidate them to a single dataframe?
 
 A common task for a data analyst is to consolidate data from multiple files into a single dataframe.
 
