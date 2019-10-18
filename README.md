@@ -1,6 +1,6 @@
 # Merge csv files into a dataframe in Python
 
-This is part one of data consolidation in Python.
+This is [part one](http://bit.ly/data_consolidation) of data consolidation in Python.
 
 Are your dataset rows spread across multiple csv files and you want to consolidate them to a single dataframe?
 
