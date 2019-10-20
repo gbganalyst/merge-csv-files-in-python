@@ -8,6 +8,8 @@ A common task for a data analyst is to consolidate data from multiple files into
 
 This repository teaches how to use pandas and/or daskframe for data consolidation in Python.
 
+For part 2 of data consolidation click [here](http://bit.ly/data_consolidation2).
+
 ---
 
 The writeup can be found [here](https://bit.ly/data_consolidation)
